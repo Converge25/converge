@@ -1,0 +1,58 @@
+AI Agent, please generate a detailed project plan for building a "one-stop" marketing application for Shopify merchants.
+
+**1. Project Goal:**
+[Clearly state the main objective of the project. Be specific about what problem you are trying to solve for Shopify merchants.]
+
+**2. Core Features (Detailed Breakdown):**
+For each of the following core features, please provide a detailed breakdown of the sub-features and functionalities:
+* **Unified Dashboard:** [Specify what key metrics should be displayed, how the data should be presented, any customization options, etc.]
+* **Email Marketing:** [Detail list management features, campaign creation process (editor specifics, templates), automation capabilities (specific workflows), personalization options, analytics to track.]
+* **SMS Marketing:** [Detail subscriber management, campaign creation, automation, reporting.]
+* **Social Media Management (Facebook/Instagram):** [Specify connection process, posting features (text, images, video), scheduling, basic analytics needed.]
+* **Pop-ups & Lead Capture:** [Detail pop-up creation (templates, customization), targeting rules, trigger options, lead storage and integration with email/SMS.]
+* **Role-Based Access Control:** [Specify the exact roles you need (e.g., Administrator, Marketing Manager, Content Creator, Analyst) and the precise permissions each role should have for each feature.]
+* **User Account Creation and Management:** [Detail the initial admin setup, team member invitation process, user profile management.]
+* **Tiered Subscription Model with Shopify Billing API:** [Specify the names of your tiers (e.g., Basic, Growth, Pro), the features and limits for each tier, and how the Shopify Billing API integration should work (trial periods, plan changes, cancellations).]
+* **Enhanced Security Measures:** [Specify the security measures you want implemented, such as data encryption (at rest and in transit), specific authentication methods (e.g., OAuth 2.0), authorization protocols, and any specific security standards to adhere to.]
+* **SEO Features Integration:** [Detail the specific SEO tools you want to include (e.g., meta tag editor for which page types, image optimization guidance details, specific schema markup to implement).]
+* **Advanced Analytics and Data Collection:** [Specify what app usage data you want to track, what campaign performance metrics beyond basic opens/clicks, what Shopify store data you need to collect (with user consent), and if you have a specific analytics platform in mind (e.g., Google Analytics, Mixpanel).]
+* **AI-Powered Customer Support:** [Specify how you envision AI being used (e.g., chatbot for FAQs, AI assistance for support agents), and if you have any specific AI APIs in mind (e.g., OpenAI ChatGPT API, Google Gemini API).]
+
+**3. Technical Specifications:**
+* **Frontend Technologies:** [Specify the exact frontend technologies, frameworks, and libraries you want to use (e.g., React.js v18, Next.js, Tailwind CSS, Shadcn/ui v0.8, Shopify Polaris v12).]
+* **Backend Technologies:** [Specify the backend technologies, frameworks, and libraries (e.g., Node.js v20, Express.js v4, Python v3.11, Django, Flask).]
+* **API Design:** [Specify if you have any preferences for API design (e.g., RESTful, GraphQL).]
+* **Email Service Integration:** [Confirm SendGrid and specify any particular features you need to utilize.]
+* **SMS Service Integration:** [Specify the SMS provider you want to integrate with (e.g., Twilio, Nexmo) and any specific features.]
+* **Database:** [Confirm your preferred database (e.g., PostgreSQL v15, MongoDB v7, MySQL v8).]
+* **Shopify Integration Details:** [Specify any particular aspects of the Shopify API you want to focus on initially (e.g., specific scopes needed, webhook usage).]
+* **State Management (Frontend):** [Specify your preferred state management library (e.g., Zustand, Redux Toolkit, Recoil, Context API).]
+
+**4. User Experience (UX) Considerations:**
+[Describe your vision for the user experience. What should the app feel like? What are the key principles for navigation, design, and user flow?]
+
+**5. Performance Requirements:**
+[Specify any performance goals for the app, such as expected load times, API response times, and how the app should handle a growing number of users and data.]
+
+**6. Security Considerations (Specifics):**
+[Elaborate on the specific security measures you want implemented beyond a general statement. For example, specific encryption algorithms, authentication protocols, and any compliance standards.]
+
+**7. Shopify App Store Compliance:**
+[Mention that the app must comply with all Shopify App Store guidelines and requirements.]
+
+**8. Testing Strategy (Detailed):**
+[Describe your preferred testing approach. What types of testing are critical? Do you have any specific testing tools in mind?]
+
+**9. Deployment Plan:**
+[Outline your initial thoughts on how the app should be deployed (e.g., preferred cloud platform like AWS, Google Cloud, Heroku).]
+
+**10. Maintenance and Support Plan (Initial Thoughts):**
+[Briefly describe your initial ideas for how you will handle bug fixes, feature updates, and customer support post-launch.]
+
+**11. Success Metrics:**
+[List the key metrics you will use to determine the success of the app.]
+
+**12. Scalability Plan (Initial Thoughts):**
+[Provide any initial ideas on how the application should be built to handle future growth in users and data.]
+
+By providing this level of detail, you will give the AI agent the necessary information to generate a much more specific and useful project plan. Remember to be as precise as possible in your answers.
